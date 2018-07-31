@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AFNetWorkService_Example' do
+  pod 'AFNetWorkService', :path => '../'
+
+  target 'AFNetWorkService_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
