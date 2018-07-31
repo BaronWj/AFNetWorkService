@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  AFNetWorkService: a20fd9d5c9f3d1abe07566ca582e49314f8de9c6
+  AFNetWorkService: 300fc88d85e86ac1de71c3acd20ae747293625fe
 
 PODFILE CHECKSUM: 97703da77fcb8ff4d1bd4eb06de22b05d5959eb2
 

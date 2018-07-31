@@ -1,8 +1,8 @@
 {
   "name": "AFNetWorkService",
   "version": "0.1.0",
-  "summary": "A short description of AFNetWorkService.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "AFNetWork的再封装",
+  "description": "TODO: AFNetWorkService 方便项目开发",
   "homepage": "https://github.com/BaronWj/AFNetWorkService",
   "license": {
     "type": "MIT",

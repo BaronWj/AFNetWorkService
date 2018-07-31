@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ReplaceUnicode.h"
 
 FOUNDATION_EXPORT double AFNetWorkServiceVersionNumber;
 FOUNDATION_EXPORT const unsigned char AFNetWorkServiceVersionString[];
